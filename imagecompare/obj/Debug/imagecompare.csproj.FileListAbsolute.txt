@@ -14,7 +14,6 @@ C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\obj\Debug\imagecompar
 D:\.ClawSs\#Programming\Repositories\C# - Repositories\CS_Image_Compare\imagecompare\bin\Debug\imagecompare.exe.config
 D:\.ClawSs\#Programming\Repositories\C# - Repositories\CS_Image_Compare\imagecompare\bin\Debug\imagecompare.exe
 D:\.ClawSs\#Programming\Repositories\C# - Repositories\CS_Image_Compare\imagecompare\bin\Debug\imagecompare.pdb
-D:\.ClawSs\#Programming\Repositories\C# - Repositories\CS_Image_Compare\imagecompare\obj\Debug\imagecompare.csprojAssemblyReference.cache
 D:\.ClawSs\#Programming\Repositories\C# - Repositories\CS_Image_Compare\imagecompare\obj\Debug\fingerprint_imgcompare.Form1.resources
 D:\.ClawSs\#Programming\Repositories\C# - Repositories\CS_Image_Compare\imagecompare\obj\Debug\fingerprint_imgcompare.msgInfoMatch.resources
 D:\.ClawSs\#Programming\Repositories\C# - Repositories\CS_Image_Compare\imagecompare\obj\Debug\fingerprint_imgcompare.msgInfoNotMatch.resources
