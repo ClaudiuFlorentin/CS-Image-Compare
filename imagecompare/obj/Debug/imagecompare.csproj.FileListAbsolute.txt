@@ -1,0 +1,13 @@
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\bin\Debug\imagecompare.exe.config
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\bin\Debug\imagecompare.exe
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\bin\Debug\imagecompare.pdb
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\obj\Debug\imagecompare.csprojAssemblyReference.cache
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\obj\Debug\fingerprint_imgcompare.Form1.resources
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\obj\Debug\fingerprint_imgcompare.msgInfoMatch.resources
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\obj\Debug\fingerprint_imgcompare.msgInfoNotMatch.resources
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\obj\Debug\fingerprint_imgcompare.msgWarning.resources
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\obj\Debug\imagecompare.Properties.Resources.resources
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\obj\Debug\imagecompare.csproj.GenerateResource.cache
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\obj\Debug\imagecompare.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\obj\Debug\imagecompare.exe
+C:\Users\claud\OneDrive\Desktop\Image_Compare\imagecompare\obj\Debug\imagecompare.pdb
