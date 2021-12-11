@@ -1,4 +1,4 @@
-# CS_Image_Compare
+# Image Compare - C#
 
 <h2>RELEASE: v1.0</h2>
 
